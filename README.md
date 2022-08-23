@@ -59,8 +59,4 @@
   </div> 
   
   <br>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/SaraZuhair/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
