@@ -56,5 +56,10 @@
           </a>
        </p>
      <br>
-  </div>    
+  </div> 
+  
+  <br>
+  <p align="center">
+  <img src="https://github.com/SaraZuhair/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
