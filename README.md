@@ -36,6 +36,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sara-zuhair-5b2b4622a/"><img src="https://img.shields.io/badge/-Sara%20Zuhair%20Khudher-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zuhairsara15@gmail.com"><img src="https://img.shields.io/badge/-zuhairsara15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/SaraZuhair"><img src="https://img.shields.io/badge/-SaraZuhair-black?logo=github&style=flat-square"/></a>
 </p>
 
 
