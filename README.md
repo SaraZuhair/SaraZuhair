@@ -64,9 +64,5 @@
   
   <br>
   
-  <div align=center>
-    <a href="https://github.com/SaraZuhair/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=SaraZuhair&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
-</div>
+ <a href="https://github.com/SaraZuhair/github-readme-activity-graph"><img alt="Sara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaraZuhair&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
