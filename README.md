@@ -28,6 +28,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/sara-zuhair-5b2b4622a/)"><img src="https://img.shields.io/badge/-Sara%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/sara-zuhair-5b2b4622a/)"><img src="https://img.shields.io/badge/-Sara%20Zuhair%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="zuhairsara15@gmail.com"><img src="https://img.shields.io/badge/-zuhairsara15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
