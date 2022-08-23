@@ -10,11 +10,11 @@
     <br><br>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.<br/>
-🎓 &nbsp;I'm currently studying Computer Science, final year undergraduate at Qaiwan International University.<br/>
-🌱 &nbsp;I'm on track for learning new frameworks and languages for front end and mobile applications developement.<br/>
-✍️ &nbsp;In my free time, I pursue Graphic Design and UX/UI design.<br/>
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.<br/>
+💡 &nbsp;I like to explore new technologies and develop software solutions.<br/> <br/>
+🎓 &nbsp;I'm currently studying Computer Science, final year undergraduate at Qaiwan International University.<br/> <br/>
+🌱 &nbsp;I'm on track for learning new frameworks and languages for front end and mobile applications developement.<br/> <br/>
+✍️ &nbsp;In my free time, I pursue Graphic Design and UX/UI design.<br/> <br/>
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.<br/> <br/>
 ✉️ &nbsp;You can shoot me an email at zuhairsara15@gmail.com! I'll try to respond as soon as I can. 
 
 
