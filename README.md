@@ -28,7 +28,9 @@
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 
-   
+ <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=SaraZuhair&color=brightgreen" alt="watching_count" />
+ </p>
    
 
 ### 🤝🏻 &nbsp;Connect with Me
