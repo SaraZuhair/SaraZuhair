@@ -39,8 +39,8 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/SaraZuhair">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraZuhair_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="SaraZuhair :: Top Langs" /></a>
+          <a href="https://github.com/SaraZuhair/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraZuhair&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="SaraZuhair :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/SaraZuhair">
