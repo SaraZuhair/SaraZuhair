@@ -63,4 +63,10 @@
   </div> 
   
   <br>
+  
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=SaraZuhair&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
 
