@@ -59,8 +59,4 @@
   </div> 
   
   <br>
-<div align="center">
-  <a href="https://SaraZuhair.github.io/SaraZuhair/">
-  <img  src="https://github.com/SaraZuhair/SaraZuhair/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
