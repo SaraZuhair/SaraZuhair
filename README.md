@@ -13,7 +13,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at zuhairsara15@gmail.com! I'll try to respond as soon as I can.
 
-
+\\\
 ### 🛠 &nbsp;Tech Stack
 
 
