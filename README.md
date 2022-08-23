@@ -60,6 +60,6 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/SaraZuhair/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/SaraZuhair/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
