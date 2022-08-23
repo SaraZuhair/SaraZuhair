@@ -31,3 +31,23 @@
 <a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/sara-zuhair-5b2b4622a/)"><img src="https://img.shields.io/badge/-Sara%20Zuhair%20Khudher-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="zuhairsara15@gmail.com"><img src="https://img.shields.io/badge/-zuhairsara15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/SaraZuhair">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraZuhair_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="SaraZuhair :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/SaraZuhair">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SaraZuhair&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraZuhair&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
