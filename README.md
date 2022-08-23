@@ -4,7 +4,7 @@
 </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sara+%F0%9F%91%8B;Software+Engineering+Student;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sara+%F0%9F%91%8B;Software+Engineer;" alt="Headline" />
     </div>
     <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
     <br><br>
