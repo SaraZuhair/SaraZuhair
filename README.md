@@ -63,5 +63,5 @@
   </div> 
   
   
- <a href="https://github.com/SaraZuhair/github-readme-activity-graph"><img alt="Sara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaraZuhair&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
