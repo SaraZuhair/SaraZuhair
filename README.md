@@ -21,7 +21,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.<br/> <br/>
 ✉️ &nbsp;You can shoot me an email at zuhairsara15@gmail.com! I'll try to respond as soon as I can. 
 
-  <div align="center"> <img src="https://pngimage.net/wp-content/uploads/2018/06/flower-divider-png-1.png" height="200" width="700" ></div>
+   <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="500" ></div>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -39,7 +39,7 @@
 
 
   
-   <div align="center"> <img src="https://pngimage.net/wp-content/uploads/2018/06/flower-divider-png-1.png" height="200" width="700" ></div>
+   <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="500" ></div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -49,7 +49,7 @@
 <a href="https://github.com/SaraZuhair"><img src="https://img.shields.io/badge/-SaraZuhair-black?logo=github&style=flat-square"/></a>
 </p>
 
- <div align="center"> <img src="https://pngimage.net/wp-content/uploads/2018/06/flower-divider-png-1.png" height="200" width="700" ></div>
+  <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="500" ></div>
 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
