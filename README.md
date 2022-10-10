@@ -9,7 +9,7 @@
     <div align=center >
     <img align="top" top="500" right="500" height="400" width="800" alt="GIF" text-align="center" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"></div>
  
- <img src="https://pngimage.net/wp-content/uploads/2018/06/flower-divider-png-1.png" height="200" width="700" text-align="center">
+ <div align="center"> <img src="https://pngimage.net/wp-content/uploads/2018/06/flower-divider-png-1.png" height="200" width="700" ></div>
  
 ### 👨🏻‍💻 &nbsp;About Me
 
