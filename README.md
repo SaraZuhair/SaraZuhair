@@ -7,7 +7,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sara+%F0%9F%91%8B;Software+Engineer;" alt="Headline" />
     </div>
     <div align=center >
-    <img align="top" top="500" right="500" height="400" width="800" alt="GIF" text-align="center"  src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"></div>
+    <img align="top" top="500" right="500" height="400" width="800" alt="GIF" text-align="center"  border-radius="10" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"></div>
  
  <img src="https://images.hive.blog/0x0/https://images.hive.blog/DQmPmVP53JytEx7m6DXBX2sp4p6zmaa8ajcdv3prHnrV9H5/5bEGgqZEHBMe6s3wiPgGFTi3naqHERgdwJew6rJYRaB3RR7sSAdZKnpKTMZNzqg1NNd5iSJQZZCLLiBLzCBPUNzACjfEqbob.gif">
  
