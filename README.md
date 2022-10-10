@@ -10,7 +10,7 @@
     <img align="top" top="500" right="500" height="400" width="800" alt="GIF" text-align="center" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"></div>
  
 
- <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="500" ></div>
+ <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="400" ></div>
  
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -21,7 +21,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.<br/> <br/>
 ✉️ &nbsp;You can shoot me an email at zuhairsara15@gmail.com! I'll try to respond as soon as I can. 
 
-   <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="500" ></div>
+   <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="400" ></div>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -39,7 +39,7 @@
 
 
   
-   <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="500" ></div>
+   <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="400" ></div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
