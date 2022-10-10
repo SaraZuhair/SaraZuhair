@@ -9,7 +9,7 @@
     <div align=center >
     <img align="top" top="500" right="500" height="400" width="800" alt="GIF" text-align="center" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"></div>
  
- <img src="https://images.hive.blog/0x0/https://images.hive.blog/DQmPmVP53JytEx7m6DXBX2sp4p6zmaa8ajcdv3prHnrV9H5/5bEGgqZEHBMe6s3wiPgGFTi3naqHERgdwJew6rJYRaB3RR7sSAdZKnpKTMZNzqg1NNd5iSJQZZCLLiBLzCBPUNzACjfEqbob.gif">
+ <img src="https://media1.giphy.com/media/svBoJt2wAPy55RQ7D1/giphy.gif?cid=6c09b95268wt8pko1ftvdvuc8w9wuxaetvhfl6zs50v1hac0&rid=giphy.gif&ct=s">
  
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -20,7 +20,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.<br/> <br/>
 ✉️ &nbsp;You can shoot me an email at zuhairsara15@gmail.com! I'll try to respond as soon as I can. 
 
- <img src="https://images.hive.blog/0x0/https://images.hive.blog/DQmPmVP53JytEx7m6DXBX2sp4p6zmaa8ajcdv3prHnrV9H5/5bEGgqZEHBMe6s3wiPgGFTi3naqHERgdwJew6rJYRaB3RR7sSAdZKnpKTMZNzqg1NNd5iSJQZZCLLiBLzCBPUNzACjfEqbob.gif">
+ <img src="https://media1.giphy.com/media/svBoJt2wAPy55RQ7D1/giphy.gif?cid=6c09b95268wt8pko1ftvdvuc8w9wuxaetvhfl6zs50v1hac0&rid=giphy.gif&ct=s">
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,7 +37,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
-   <img src="https://images.hive.blog/0x0/https://images.hive.blog/DQmPmVP53JytEx7m6DXBX2sp4p6zmaa8ajcdv3prHnrV9H5/5bEGgqZEHBMe6s3wiPgGFTi3naqHERgdwJew6rJYRaB3RR7sSAdZKnpKTMZNzqg1NNd5iSJQZZCLLiBLzCBPUNzACjfEqbob.gif">
+   <img src="https://media1.giphy.com/media/svBoJt2wAPy55RQ7D1/giphy.gif?cid=6c09b95268wt8pko1ftvdvuc8w9wuxaetvhfl6zs50v1hac0&rid=giphy.gif&ct=s">
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -47,7 +47,7 @@
 <a href="https://github.com/SaraZuhair"><img src="https://img.shields.io/badge/-SaraZuhair-black?logo=github&style=flat-square"/></a>
 </p>
 
- <img src="https://images.hive.blog/0x0/https://images.hive.blog/DQmPmVP53JytEx7m6DXBX2sp4p6zmaa8ajcdv3prHnrV9H5/5bEGgqZEHBMe6s3wiPgGFTi3naqHERgdwJew6rJYRaB3RR7sSAdZKnpKTMZNzqg1NNd5iSJQZZCLLiBLzCBPUNzACjfEqbob.gif">
+ <img src="https://media1.giphy.com/media/svBoJt2wAPy55RQ7D1/giphy.gif?cid=6c09b95268wt8pko1ftvdvuc8w9wuxaetvhfl6zs50v1hac0&rid=giphy.gif&ct=s">
 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
