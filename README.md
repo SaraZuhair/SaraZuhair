@@ -9,6 +9,8 @@
     <div align=center >
     <img align="top" top="500" right="500" height="400" width="800" alt="GIF" text-align="center"  src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"></div>
  
+ <img src="https://images.hive.blog/0x0/https://images.hive.blog/DQmPmVP53JytEx7m6DXBX2sp4p6zmaa8ajcdv3prHnrV9H5/5bEGgqZEHBMe6s3wiPgGFTi3naqHERgdwJew6rJYRaB3RR7sSAdZKnpKTMZNzqg1NNd5iSJQZZCLLiBLzCBPUNzACjfEqbob.gif">
+ 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.<br/> <br/>
