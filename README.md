@@ -10,7 +10,7 @@
     <img align="top" top="500" right="500" height="400" width="800" alt="GIF" text-align="center" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif"></div>
  
 
- <div align="center"> <img src="http://www.blossom4kids.com/x/cdn/?https://storage.googleapis.com/production-homestead-v1-0-9/049/25049/t7RbyTHz/bd0c12be8aad447fbffe709eabcd5f66" height="200" width="700" ></div>
+ <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="700" ></div>
  
 ### 👨🏻‍💻 &nbsp;About Me
 
