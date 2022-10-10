@@ -49,7 +49,7 @@
 <a href="https://github.com/SaraZuhair"><img src="https://img.shields.io/badge/-SaraZuhair-black?logo=github&style=flat-square"/></a>
 </p>
 
-  <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="500" ></div>
+  <div align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5caa096fd24e5500016095dc/1625687960281-L7V0OTB69B865X8N59EN/giphy-26.gif" height="200" width="400" ></div>
 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
