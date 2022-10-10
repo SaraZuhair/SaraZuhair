@@ -6,7 +6,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sara+%F0%9F%91%8B;Software+Engineer;" alt="Headline" />
     </div>
-    <img align="middle" top="500" right="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+    <img align="middle" top="500" right="500" height="300" width="400" alt="GIF" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif">
  
 ### 👨🏻‍💻 &nbsp;About Me
 
